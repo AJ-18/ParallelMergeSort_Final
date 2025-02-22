@@ -1,0 +1,4 @@
+﻿  ParallelMergeSort_Final.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\semaphore(16): warning STL4038: The contents of <semaphore> are available only with C++20 or later.
+D:\College\Spring 2025\Parallel_Processing\ParallelMergeSort_Final\ParallelMergeSort_Final\ParallelMergeSort_Final.cpp(372,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ParallelMergeSort_Final.vcxproj -> D:\College\Spring 2025\Parallel_Processing\ParallelMergeSort_Final\ParallelMergeSort_Final\x64\Debug\ParallelMergeSort_Final.exe
